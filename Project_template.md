@@ -7,5 +7,5 @@
 * Task-4
 	* [Запуск RAG бота](labs/sprint-7/rag/Task4/README.md)
 * Task-5
-	* [Управление рисками бота](labs/sprint-7/rag/Task5/README.md) при работе бота
+	* [Управление рисками бота](labs/sprint-7/rag/Task5/README.md)
 
