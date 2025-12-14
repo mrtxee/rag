@@ -7,5 +7,5 @@
 * Task-4
 	* [Запуск RAG бота](labs/sprint-7/rag/Task4/README.md)
 * Task-5
-	* [Внедрение Pre-prompt, Post-проверок](labs/sprint-7/rag/Task5/README.md) для защиты чувствительных данных при работе бота
+	* [Защит от атак и снижение риски компрометации данных](labs/sprint-7/rag/Task5/README.md) при работе бота
 
