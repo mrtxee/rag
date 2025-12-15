@@ -179,3 +179,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+Task2/data-mining-app/pages/
+Task2/data-mining-app/pages/.venv/
+/Task3/multilingual-e5-large-instruct
+models/multilingual-e5-large-instruct/
+*.bin
+*.sqlite3
+*.bin
+*.sqlite3
+*.gguf
+models/llama-3-8b-gpt-4o-ru1.0-gguf/gitattributes.txt
+models/llama-3-8b-gpt-4o-ru1.0-gguf/README.md
